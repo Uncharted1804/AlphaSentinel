@@ -27,11 +27,11 @@ This project was chosen to strictly align with the advanced requirements of the 
 I plan to execute these steps to complete my project.
 
 - [DONE] Environment Setup: Fork repo, setup venv, and install dependencies.  
-- [TODO] Data Pipeline: Curate 10-K PDFs and Transcripts for analysis.  
-- [TODO] Vector Database: Build RAG ingestion pipeline for 10-Ks.  
-- [TODO] Node 1 - The Listener: LangGraph node to parse transcripts.  
-- [TODO] Node 2 - The Auditor: Retrieval node to find evidence in 10-K.  
-- [TODO] Node 3 - The Judge: Logic node to compare Claim vs. Evidence.  
+- [DONE] Data Pipeline: Curate 10-K PDFs and Transcripts for analysis.  
+- [DONE] Vector Database: Build RAG ingestion pipeline for 10-Ks.  
+- [DONE] Node 1 - The Listener: LangGraph node to parse transcripts.  
+- [DONE] Node 2 - The Auditor: Retrieval node to find evidence in 10-K.  
+- [DONE] Node 3 - The Judge: Logic node to compare Claim vs. Evidence.  
 - [TODO] Deployment: Streamlit UI construction.  
 - [TODO] Video: Recording and submission.  
 
