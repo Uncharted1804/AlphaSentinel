@@ -21,7 +21,7 @@ This project was chosen to strictly align with the advanced requirements of the 
 - **Deep Financial Analysis:** It automates a task that typically requires hours of human expert reading, demonstrating the power of LLMs in the financial domain.
 
 ## Video Summary Link
-[TODO: Insert Youtube/Drive Link Here after recording]
+https://youtu.be/VNnaGP4YikU
 
 ## Plan
 I plan to execute these steps to complete my project.
@@ -33,7 +33,9 @@ I plan to execute these steps to complete my project.
 - [DONE] Node 2 - The Auditor: Retrieval node to find evidence in 10-K.  
 - [DONE] Node 3 - The Judge: Logic node to compare Claim vs. Evidence.  
 - [DONE] Deployment: Streamlit UI construction.  
-- [TODO] Video: Recording and submission.  
+- [DONE] Video: Recording and submission.  
 
 ## Conclusion
-[TODO: To be written upon completion]
+This project successfully demonstrates the application of Agentic AI in Quantitative Finance. AlphaSentinel effectively utilizes a **LangGraph** state machine to orchestrate a complex workflow: extracting unstructured claims from executive transcripts, retrieving legally binding evidence via a **RAG pipeline** (ChromaDB), and adjudicating discrepancies using an LLM. 
+
+I achieved the objective of transforming unstructured text into a structured "Risk Score," providing a deployable prototype for automated due diligence. The system effectively highlights the "Alpha" hidden in the gap between sales guidance and regulatory reality.
