@@ -32,7 +32,7 @@ I plan to execute these steps to complete my project.
 - [DONE] Node 1 - The Listener: LangGraph node to parse transcripts.  
 - [DONE] Node 2 - The Auditor: Retrieval node to find evidence in 10-K.  
 - [DONE] Node 3 - The Judge: Logic node to compare Claim vs. Evidence.  
-- [TODO] Deployment: Streamlit UI construction.  
+- [DONE] Deployment: Streamlit UI construction.  
 - [TODO] Video: Recording and submission.  
 
 ## Conclusion
